@@ -1,0 +1,17 @@
+--------- beginning of crash
+2023-12-24 18:58:04.272   615-913   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 18:58:04.347   615-913   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 18:58:04.348   615-913   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 18:58:04.987   615-914   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 18:59:34.372   615-913   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 18:59:34.389   615-913   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 18:59:34.394   615-913   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 18:59:34.840   615-914   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 18:59:47.052   615-913   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 18:59:47.055   615-913   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 18:59:47.056   615-913   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 18:59:47.343   615-914   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 19:01:25.632   615-913   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 19:01:25.636   615-913   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 19:01:25.640   615-913   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
+2023-12-24 19:01:26.155   615-914   ClipboardService        system_server                        E  Denying clipboard access to com.ichi2.anki.debug, application is not in focus nor is it a system service for user 0
